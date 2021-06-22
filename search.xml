@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>快速排序代码实现</title>
+      <link href="/2021/06/22/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/"/>
+      <url>/2021/06/22/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</url>
+      
+        <content type="html"><![CDATA[<p><strong>实现思想：</strong></p><p><em><u>递归</u></em></p><p>随机取一个元素，确定它的最终位置，由这个元素将数列分为前后两部分</p><p>对前后两部分也进行以上的操作</p><p>进行递归，直到排序完毕</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Other</span></span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">QuickSort</span><span class="params">(<span class="keyword">int</span> []nums,<span class="keyword">int</span> low,<span class="keyword">int</span> high)</span></span>&#123;</span><br><span class="line">        <span class="keyword">if</span>(low&lt;high)&#123;</span><br><span class="line">            <span class="keyword">int</span> pos=FindPostion(nums,low,high);<span class="comment">//寻找到指定元素位置</span></span><br><span class="line">            QuickSort(nums,low,pos-<span class="number">1</span>);<span class="comment">//前半部分排序</span></span><br><span class="line">            QuickSort(nums,pos+<span class="number">1</span>,high);<span class="comment">//后半部分排序</span></span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">FindPostion</span><span class="params">(<span class="keyword">int</span>[]nums,<span class="keyword">int</span> low,<span class="keyword">int</span> high)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> val = nums[low];<span class="comment">//将要寻找位置元素存起来</span></span><br><span class="line">        <span class="keyword">while</span> (low &lt; high) &#123;<span class="comment">//指针不重合</span></span><br><span class="line">            <span class="keyword">while</span> (low &lt; high &amp;&amp; nums[high] &gt;= val)<span class="comment">//指针不重合并且后面指针所指元素大于指定元素时指针向前</span></span><br><span class="line">                high--;</span><br><span class="line">            nums[low] = nums[high];<span class="comment">//否则当后指针元素小于前指针元素时两指针交换元素</span></span><br><span class="line">            <span class="keyword">while</span> (low &lt; high &amp;&amp; nums[low] &lt;= val)<span class="comment">//指针不重合并且前面指针所指元素小于指定元素时指针向后</span></span><br><span class="line">                low++;</span><br><span class="line">            nums[high] = nums[low];<span class="comment">//否则当前指针元素大于后指针元素时两指针交换元素</span></span><br><span class="line">            nums[low] = val;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> low;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 算法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>C++作业代码块测试</title>
       <link href="/2021/06/16/C++%E4%BD%9C%E4%B8%9A%E4%BB%A3%E7%A0%81%E5%9D%97/"/>
       <url>/2021/06/16/C++%E4%BD%9C%E4%B8%9A%E4%BB%A3%E7%A0%81%E5%9D%97/</url>
