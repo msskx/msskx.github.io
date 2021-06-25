@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>编程资料合集（待补充）</title>
+      <link href="/2021/06/25/%E7%BC%96%E7%A8%8B%E8%B5%84%E6%96%99/"/>
+      <url>/2021/06/25/%E7%BC%96%E7%A8%8B%E8%B5%84%E6%96%99/</url>
+      
+        <content type="html"><![CDATA[<h1 id="工具网站"><a href="#工具网站" class="headerlink" title="工具网站"></a>工具网站</h1><p><a href="https://gitee.com/">码云</a>：基于Git的分布式管理工具</p><p><a href="https://leetcode-cn.com/">力扣</a>：算法</p><p><a href="https://juejin.cn/">掘金</a>：开发者社区</p><p><a href="https://www.saikr.com/">赛氪：</a>竞赛集合</p><p><a href="https://mdnice.com/">墨滴：</a>Markdown美化</p><p><a href="https://cloud.tencent.com/developer/labs">开发者实验室：</a>腾讯云提供的开发者专属在线实验平台</p><h1 id="网络安全"><a href="#网络安全" class="headerlink" title="网络安全"></a>网络安全</h1><p><a href="https://security.tencent.com/">腾讯安全应急响应中心：</a>提交漏洞，各路安全专家长期关注腾讯安全，帮助TSRC提高腾讯产品安全水平，保障了腾讯数亿用户的安全在线生活。</p><p><a href="https://pentestbox.org/">PentestBox</a>：Windows 平台下预配置的便携式开源渗透测试环境</p><p><a href="https://www.docker.org.cn/">docker：</a>docker中文社区</p><p><a href="http://wiki.peiqi.tech/">PeiQi WiKi-POC文库</a>：整合各种漏洞的环境搭建，POC，漏洞原理</p><p><a href="https://security.alibaba.com/">阿里安全响应中心</a>：阿里网安</p><p><a href="https://bbs.pediy.com/">看雪论坛：</a>看雪论坛是个软件安全技术交流场所，为安全技术爱好者提供一个技术交流平台和资源。</p><h1 id="编程学习"><a href="#编程学习" class="headerlink" title="编程学习"></a>编程学习</h1><p> <a href="https://developer.aliyun.com/graph/java">Java 技术图谱：</a>一个逐步的Java学习平台</p><p><a href="https://www.kuangstudy.com/">kuangstudy</a>：免费课程网站，目前已提供java零基础到企业项目实战的完整java学习路线</p><h1 id="餐后零食"><a href="#餐后零食" class="headerlink" title="餐后零食"></a>餐后零食</h1><p><a href="https://leohxj.gitbooks.io/a-programmer-prepares/content/">程序员的自我修养：</a>全方位介绍了程序员提升自己的方法，如程序员基础知识、算法、团队合作、获取知识、保持健康、提升效率等。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 程序人生 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 程序人生 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>快速排序代码实现</title>
       <link href="/2021/06/22/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/"/>
       <url>/2021/06/22/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</url>
