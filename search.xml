@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>考后总结与规划</title>
+      <link href="/2022/04/02/2022%E5%B9%B44%E6%9C%882%E6%97%A5232134/"/>
+      <url>/2022/04/02/2022%E5%B9%B44%E6%9C%882%E6%97%A5232134/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>    疫情来势凶险，考试一再受到影响，总算结束了，最后一门考完，照常跑了2km还是非常的爽，心情愉悦……</p><p>    希望不要挂科，求求了</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>    就最近的工作来看，算法还要练习，并且以后要一直跟着y总学习，原本计划深耕java，但就形势来看java已然一片红海，目前golang作为后起之秀，也逐渐出现在招聘岗位中，所以java必然不是我以后要走的路，之前了解过一点python，在加上这学期的大数据项目使用flask，能感觉到python开发还是挺舒服的。</p><p>    上学期末封校跟着老韩学的Linux过了年就还给他了，现在看着当时记得笔记恨不得给自己两巴掌，果然，技术性的东西还是要练习，这学期跟着y总好好学算法写工程。去年康师傅录制的数据库还是挺好的，这学期必然是要学完mysql配合着Django，争取学期末自己独立完成一个项目出来，虽然这学期也体验了协同开发，但团队的小伙伴连git都不会用所以还是毫无体验感。</p><p>    何总给的Google项目估计是GG了，这学期先把时间序列模型跑通在看后续发展吧。</p><p>    翻看之前手写的日记，感觉当时是真的意气风发，还未老却有了老夫聊发少年狂的意味，暂且在这更狂一把，想之前随随便便1000字议论文还被老师表扬深刻，现在遇到事情只会说卧槽，基本的社交能力也丧失的差不多了，。。。。。烦死了，总之慢慢来吧</p><p>    gitee图床加了防盗，还好我写文章不喜欢配图，不然BLog就又废了，有图的文章也就几篇</p><h2 id="规划"><a href="#规划" class="headerlink" title="规划"></a>规划</h2><ul><li><input disabled="" type="checkbox"> 4月9号蓝桥杯，最近狂肝ACwing，动态规划</li><li><input disabled="" type="checkbox"> 4月20号计算机设计大赛</li><li><input disabled="" type="checkbox"> 数值分析实验</li><li><input disabled="" type="checkbox"> 时间序列模型</li><li><input disabled="" type="checkbox"> Django+web</li><li><input disabled="" type="checkbox"> Linux</li><li><input disabled="" type="checkbox"> 组成原理网课</li><li><input disabled="" type="checkbox"> 康师傅的MySQL</li><li><input disabled="" type="checkbox"> 英语</li><li><input disabled="" type="checkbox"> 空闲时间看《意林》《青年文摘》</li></ul><p>不要和别人比较，一看别人做什么总是心动，要用逻辑和理智去思考，为人处世都一样，时刻想想自己想要的是什么，不要忘记最初那份美好，不要荒废，不要等失去才后悔。。。</p><p>等蓝桥杯结束再来看看此文，估计又有新的想法</p><h2 id="最后：莫等闲，白了少年头，空悲切"><a href="#最后：莫等闲，白了少年头，空悲切" class="headerlink" title="最后：莫等闲，白了少年头，空悲切"></a>最后：莫等闲，白了少年头，空悲切</h2><h1 id="加油！！-！"><a href="#加油！！-！" class="headerlink" title="加油！！ ！"></a>加油！！ ！</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 程序人生 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 程序人生 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java 做题模板</title>
       <link href="/2022/03/21/Java%E5%81%9A%E9%A2%98%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
       <url>/2022/03/21/Java%E5%81%9A%E9%A2%98%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/</url>
